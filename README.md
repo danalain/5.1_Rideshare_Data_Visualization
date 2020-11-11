@@ -1,4 +1,4 @@
-# Self-Learning: 5.1 Rideshare Market Analysis
+# Self-Learning: Rideshare Market Analysis
 
 ![Rideshare](Images/rideshare.jpg)
 
